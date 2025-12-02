@@ -19,11 +19,11 @@ I'm Alif,a student in Germany and currently studying Electrical and Information 
 
 I love to design and develop in my free time.
 
+I build projects with Arduino and ESP32.
+
 I also like to use Wallpaper Engine to make some cool anime or game wallpapers.
 
-Other than WE,I also use GIMP for image editing and VS Code for coding.
-
-I also build projects with Arduino and ESP32.
+Other than WE,I also use GIMP for image editing, Notability for notes and drawing and VS Code for coding.
 
 **- Fun Facts -**
 
