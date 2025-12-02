@@ -16,5 +16,17 @@ Here are some ideas to get you started:
 -->
 
 I'm Alif,a student in Germany and currently studying Electrical and Information Technology.
+
 I love to design and develop in my free time.
+
 I also like to use Wallpaper Engine to make some cool anime or game wallpapers.
+
+Other than WE,I also use GIMP for image editing and VS Code for coding.
+
+I also build projects with Arduino and ESP32.
+
+**- Fun Facts -**
+
+- I like cats
+- Hobby: coding,gaming,gym,anime
+- I don't drink coffee
