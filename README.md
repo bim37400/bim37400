@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm Alif,a student in Germany and currently studying Electrical and Information Technology.
+I love to design and develop in my free time.
+I also like to use Wallpaper Engine to make some cool anime or game wallpapers.
